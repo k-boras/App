@@ -1,0 +1,23 @@
+#box1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    background-color: rgb(178, 219, 236);
+    padding: 13px;
+}
+
+.img-up-down-arrow{
+    background-color:rgb(178, 219, 236);
+    color: blueviolet;
+    position: absolute;
+    width: 50px;
+    top: 10px;
+    left: 10px;
+
+}
+#box2{background-color: rgb(202, 213, 223);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+}
